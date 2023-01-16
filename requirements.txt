@@ -8,3 +8,4 @@ streamlit
 matplotlib
 plotly
 scipy
+scikit-learn
