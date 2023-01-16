@@ -6,5 +6,5 @@ pandas
 arxiv
 streamlit
 matplotlib
-plotlyg
+plotly
 scipy
