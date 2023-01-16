@@ -5,3 +5,4 @@ openai
 pandas
 arxiv
 streamlit
+matplotlib
